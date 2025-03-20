@@ -184,7 +184,7 @@ This project demonstrates my ability to manage end-to-end data analysis, from SQ
 For further details, you can explore the following resources:
 
 - **Power BI Dashboard**:  
-  [View the Interactive Power BI Dashboard]()
+  [View the Interactive Power BI Dashboard](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/customer%20segmentation%20and%20sales%20analysis.pbix)
 
 - **SQL Queries**:  
   [Access the SQL Queries Used for Data Extraction](link_to_sql_queries)
