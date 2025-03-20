@@ -63,8 +63,11 @@ GROUP BY Category;
 SELECT EXTRACT(YEAR_MONTH FROM Order_Date) AS SalesMonth, SUM(Sales) AS TotalSales 
 FROM customer_sales 
 GROUP BY SalesMonth;
+--
 
-# Power BI Dashboard Explanation
+---
+```
+## Power BI Dashboard Explanation
 
 The Power BI Dashboard is structured to provide actionable insights through the following visuals:
 
