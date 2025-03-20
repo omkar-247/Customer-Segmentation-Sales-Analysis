@@ -190,4 +190,4 @@ For further details, you can explore the following resources:
   [Access the SQL Queries Used for Data Extraction](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/sql%20Query.sql)
 
 - **Presentation**:  
-  [Download the Project Presentation](link_to_presentation)
+  [Download the Project Presentation](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/Customer-Segmentation-and-Sales-Analysis.pptx)
