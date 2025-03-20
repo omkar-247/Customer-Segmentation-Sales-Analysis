@@ -71,6 +71,19 @@ SELECT Category, SUM(Sales) AS TotalSales
 FROM customer_sales 
 GROUP BY Category;
 
+-- Sales by Age Group
+SELECT 
+  CASE 
+    WHEN Customer_Age BETWEEN 18 AND 25 THEN '18-25'
+    WHEN Customer_Age BETWEEN 26 AND 35 THEN '26-35'
+    WHEN Customer_Age BETWEEN 36 AND 45 THEN '36-45'
+    WHEN Customer_Age BETWEEN 46 AND 55 THEN '46-55'
+    ELSE '55+' 
+  END AS age_group,
+  SUM(Sales) AS total_sales
+FROM CustomerSales
+GROUP BY age_group;
+
 -- Monthly Sales Trend
 SELECT EXTRACT(YEAR_MONTH FROM Order_Date) AS SalesMonth, SUM(Sales) AS TotalSales 
 FROM customer_sales 
