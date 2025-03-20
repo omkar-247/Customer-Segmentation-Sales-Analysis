@@ -1,5 +1,5 @@
 # Customer-Segmentation-Sales-Analysis
-# Customer Segmentation and Sales Analysis Project
+
 
 This project is a comprehensive Customer Segmentation and Sales Analysis, leveraging **MySQL** for database queries and **Power BI** for dynamic data visualization.
 
@@ -151,3 +151,16 @@ These visuals are interconnected with drill-through and tooltips to allow intera
 ## Conclusion
 
 This project demonstrates my ability to manage end-to-end data analysis, from SQL data extraction to building insightful dashboards in Power BI. The combination of SQL queries and Power BI visuals provided actionable insights that can help businesses make data-driven decisions, improve sales, and enhance customer retention.
+
+## Related Resources
+
+For further details, you can explore the following resources:
+
+- **Power BI Dashboard**:  
+  [View the Interactive Power BI Dashboard](link_to_powerbi_dashboard)
+
+- **SQL Queries**:  
+  [Access the SQL Queries Used for Data Extraction](link_to_sql_queries)
+
+- **Presentation**:  
+  [Download the Project Presentation](link_to_presentation)
