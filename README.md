@@ -187,7 +187,7 @@ For further details, you can explore the following resources:
   [View the Interactive Power BI Dashboard](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/customer%20segmentation%20and%20sales%20analysis.pbix)
 
 - **SQL Queries**:  
-  [Access the SQL Queries Used for Data Extraction](link_to_sql_queries)
+  [Access the SQL Queries Used for Data Extraction](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/sql%20Query.sql)
 
 - **Presentation**:  
   [Download the Project Presentation](link_to_presentation)
