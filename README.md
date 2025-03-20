@@ -116,6 +116,8 @@ The Power BI Dashboard is structured to provide actionable insights through the 
 - **Description**: Displays the Customer Lifetime Value (CLTV), calculated using the following DAX formula:
   ```DAX
   CLTV = SUMX(customer_sales, customer_sales[AverageOrderValue] * customer_sales[PurchaseFrequency])
+  
+![Dashboard](https://github.com/omkar-247/Customer-Segmentation-Sales-Analysis/blob/main/Customer%20Segmentation%20and%20Sales%20Dashboard.png)
 
 # Power BI Dashboard Insights and Recommendations
 
@@ -182,7 +184,7 @@ This project demonstrates my ability to manage end-to-end data analysis, from SQ
 For further details, you can explore the following resources:
 
 - **Power BI Dashboard**:  
-  [View the Interactive Power BI Dashboard](link_to_powerbi_dashboard)
+  [View the Interactive Power BI Dashboard]()
 
 - **SQL Queries**:  
   [Access the SQL Queries Used for Data Extraction](link_to_sql_queries)
