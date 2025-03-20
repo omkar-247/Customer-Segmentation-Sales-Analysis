@@ -17,7 +17,10 @@ This project is a comprehensive Customer Segmentation and Sales Analysis, levera
 1. **Data Import**: Import customer sales data from MySQL into Power BI.
 2. **Data Cleaning**: Cleaned and formatted data using SQL queries.
 3. **Data Analysis**: Performed calculations like sales by region, top customers, and monthly trends in MySQL.
-4. **Visualization**: Built interactive visualizations in Power BI, adding features like tooltips and drill-throughs.
+4. **Visualization**:
+   - Built interactive visualizations in Power BI for **sales trends**, **product category performance**, **regional sales**, and **top customers**.
+   - Added **RFM Segmentation Pie Chart** to visualize the distribution of customers based on recency, frequency, and monetary value.
+   - Enhanced the dashboard with **tooltips** and **drill-throughs** for deeper analysis.
 5. **Insights**: Derived actionable insights from visualized data to help improve sales and marketing strategies.
 
 ---
@@ -42,6 +45,15 @@ The dataset used in this project contains the following fields:
 ## SQL Queries for Data Analysis:
 
 ```sql
+-- Customer Segmentation
+SELECT 
+      Customer_ID, 
+      MAX(Order_Date) AS Last_Order_Date, 
+      COUNT(Order_ID) AS Order_Frequency, 
+      SUM(Sales) AS Total_Spent 
+   FROM CustomerSales 
+   GROUP BY Customer_ID;
+
 -- Total Sales by Region
 SELECT Customer_Region, SUM(Sales) AS TotalSales 
 FROM customer_sales 
@@ -77,6 +89,12 @@ The Power BI Dashboard is structured to provide actionable insights through the 
 - **Tooltip**: Shows detailed sales information for each category.  
 - **Drill-through**: Allows users to explore specific customer demographics and sales trends for each category.
 
+### 6. RFM Segmentation
+-**Type**: Pie Chart
+-**Description**: Displays customer segments based on RFM analysis, categorizing customers into groups based on their recent purchases, purchase frequency, and ---total monetary contribution.
+-**Tooltip**: Shows the proportion of each customer segment, such as High Value Customers, At-Risk Customers, and Lost Customers.
+-**Drill-through**: Enables users to analyze customer behavior based on their RFM scores.
+
 ### 2. Top 5 Customers by Sales
 - **Type**: Table Visual  
 - **Description**: Displays the top 5 customers and their respective sales amounts.  
@@ -110,16 +128,19 @@ These visuals are interconnected with drill-through and tooltips to allow intera
 1. **Increased Office Supplies Sales by 15%**  
    Accomplished a 15% increase in sales from Office Supplies by implementing targeted marketing campaigns based on regional sales data, leading to increased sales in high-demand areas.
 
-2. **Top 5 Customers Contributing 30% of Total Sales**  
+2.**Identified High-Value Customers Using RFM Segmentation**
+  Analyzed customer behavior with RFM segmentation, identifying high-value customers who contribute the most revenue, which allows the company to focus on retaining and nurturing these valuable segments.
+
+3. **Top 5 Customers Contributing 30% of Total Sales**  
    Identified the top 5 customers contributing 30% of total sales by segmenting customers based on their purchasing history, enabling the sales team to focus on customer retention programs.
 
-3. **Improved Product Sales Forecasting Accuracy**  
+4. **Improved Product Sales Forecasting Accuracy**  
    Analyzed monthly sales trends using Power BI’s interactive line charts, improving forecasting accuracy and reducing stockouts by 10%.
 
-4. **Boosted Sales in Underperforming Regions by 12%**  
+5. **Boosted Sales in Underperforming Regions by 12%**  
    Increased sales in underperforming regions by identifying sales patterns using regional sales breakdowns and implementing region-specific promotions.
 
-5. **Increased CLTV by 8%**  
+6. **Increased CLTV by 8%**  
    Boosted overall customer lifetime value (CLTV) by analyzing purchase frequency and average order value, enabling personalized promotions and loyalty programs for high-value customers.
 
 ---
@@ -145,6 +166,10 @@ These visuals are interconnected with drill-through and tooltips to allow intera
 5. **Implement CLTV-Based Marketing**  
    - **Recommendation**: Focus marketing efforts on customers with high Customer Lifetime Value (CLTV) to maximize return on marketing investment.  
    - **Result**: Enhance long-term profitability by prioritizing customers who are more likely to generate future revenue.
+
+6. **Implement targeted campaigns using RFM insights**
+   - **Recommendation**:Automate RFM segmentation updates via SQL pipelines.
+   -**Result**: Improved retention rates and customer lifetime value.
 
 ---
 
