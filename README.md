@@ -45,7 +45,7 @@ The dataset used in this project contains the following fields:
 ## SQL Queries for Data Analysis:
 
 ```sql
--- Customer Segmentation
+-- Customer Segmentation(RFM anlaysis)
 SELECT 
       Customer_ID, 
       MAX(Order_Date) AS Last_Order_Date, 
