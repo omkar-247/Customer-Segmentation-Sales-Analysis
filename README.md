@@ -1,7 +1,7 @@
 # Customer-Segmentation-Sales-Analysis
 
 
-This project is a comprehensive Customer Segmentation and Sales Analysis, where I leveraged MySQL for database queries and Power BI for dynamic data visualization. By analyzing customer behavior and sales performance, I delivered actionable insights to optimize sales strategies, improve customer retention, and drive revenue growth.
+This project is a **comprehensive Customer Segmentation and Sales Analysis**, where I leveraged MySQL for database queries and **Power BI** for dynamic data visualization. By analyzing customer behavior and sales performance, I delivered actionable insights to optimize sales strategies, improve customer retention, and drive revenue growth.
 
 ---
 
