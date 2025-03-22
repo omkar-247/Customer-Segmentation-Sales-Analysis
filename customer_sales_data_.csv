@@ -1,0 +1,301 @@
+Customer_ID,Order_ID,Order_Date,Product,Sales,Quantity,Category,Customer_Age,Customer_City,Customer_Region,Customer_Segment
+3016,877252,2024-03-13,read,3032.56,6,Furniture,62,North Amy,South,Consumer
+7850,241946,2025-03-10,pretty,1210.05,1,Office Supplies,30,Lake Hannahbury,South,Home Office
+2137,408232,2024-06-25,free,4939.59,1,Furniture,52,Brianborough,North,Consumer
+3592,551925,2024-11-11,later,850.07,2,Furniture,47,Jenniferland,West,Home Office
+3270,792192,2023-07-17,father,1613.06,10,Furniture,69,Lake Kristophertown,West,Consumer
+9712,579687,2023-08-25,a,2439.12,5,Technology,51,Jaclynview,East,Corporate
+1149,426180,2024-11-23,perform,3884.28,10,Technology,50,Weeksmouth,South,Consumer
+7602,138259,2024-02-28,pattern,3956.07,10,Technology,37,Smithshire,South,Corporate
+2959,128572,2023-04-27,window,842.0,3,Furniture,22,Lake Brian,South,Corporate
+3671,318745,2024-04-16,air,1589.17,4,Office Supplies,18,South Rodney,East,Home Office
+2531,550363,2024-12-26,short,3912.36,6,Office Supplies,42,East Chelsea,North,Corporate
+2097,440613,2023-11-04,foreign,2611.54,4,Office Supplies,25,South Frank,North,Corporate
+3414,899171,2024-08-13,year,3310.59,4,Office Supplies,54,Selenatown,South,Corporate
+9859,494598,2024-03-01,stop,2079.28,6,Office Supplies,46,West Tracey,East,Consumer
+4263,248196,2023-10-14,go,1701.22,1,Technology,36,East Gregoryview,North,Home Office
+8482,568654,2025-01-31,certainly,3275.76,8,Technology,30,Crosston,North,Corporate
+7612,395527,2024-10-28,treatment,2820.85,3,Furniture,47,Morrisonchester,West,Home Office
+2849,974895,2024-02-01,become,4101.8,4,Furniture,28,Ritaton,West,Corporate
+9434,753008,2024-05-26,cold,2689.45,9,Furniture,49,Lake Emily,East,Consumer
+4700,662768,2023-10-29,defense,2686.51,1,Office Supplies,49,Russoville,South,Corporate
+3529,699649,2023-08-09,sing,2592.39,3,Technology,47,Lake Sarashire,East,Home Office
+9917,477628,2023-05-17,you,4195.65,4,Office Supplies,67,Obrienstad,West,Home Office
+9925,593611,2025-02-20,page,1284.3,3,Furniture,31,Kentstad,East,Consumer
+2830,995824,2023-12-01,type,683.42,10,Technology,62,Port Taylorshire,South,Corporate
+4684,314568,2023-06-06,number,4532.8,2,Office Supplies,56,Ramosborough,North,Consumer
+1698,729803,2024-05-28,wall,937.79,1,Furniture,51,Port Ann,North,Corporate
+5811,407631,2023-09-22,sound,731.8,6,Furniture,21,East Michael,West,Consumer
+1006,833747,2023-04-12,result,2838.83,7,Office Supplies,49,Smithshire,West,Home Office
+6928,289321,2024-06-11,street,1578.01,6,Technology,55,New Selena,East,Consumer
+1730,386912,2024-11-09,bring,4481.33,5,Furniture,39,Steveview,East,Corporate
+5018,170524,2023-04-19,amount,142.79,3,Furniture,21,New Nancyland,West,Corporate
+9590,585782,2023-04-29,age,4823.14,5,Technology,65,South Richard,South,Home Office
+8567,810771,2024-09-22,star,1193.19,1,Technology,39,Aaronborough,East,Corporate
+2710,817143,2025-02-07,condition,716.54,6,Furniture,36,Lake Kyleshire,North,Consumer
+6403,479285,2025-02-03,myself,1477.51,3,Technology,50,New Brian,West,Corporate
+5436,316923,2024-06-19,play,3977.91,8,Office Supplies,50,Sandystad,North,Home Office
+3557,925899,2024-12-17,create,672.24,8,Furniture,52,East Scott,North,Corporate
+3806,847952,2024-11-25,traditional,1330.08,5,Furniture,29,Ravenside,East,Home Office
+2172,281144,2024-05-16,physical,4140.99,5,Office Supplies,45,New Johnview,North,Home Office
+8561,657476,2024-04-07,fire,635.7,7,Technology,60,Charlesside,South,Home Office
+1616,555198,2024-10-23,three,1674.68,6,Technology,66,West Christine,South,Home Office
+6351,863798,2023-07-09,wife,70.62,9,Office Supplies,28,Smithmouth,North,Home Office
+3380,671092,2024-11-24,everyone,4030.06,4,Technology,44,Antonioburgh,East,Consumer
+7658,570883,2023-12-17,bar,349.71,5,Technology,41,Parkerland,South,Consumer
+5620,404782,2025-01-09,effort,2549.19,3,Technology,28,Tiffanymouth,West,Home Office
+1745,438565,2024-12-08,significant,779.35,2,Furniture,52,East Thomasstad,South,Corporate
+3758,553048,2023-04-13,also,4655.46,8,Technology,25,Clarkberg,North,Home Office
+9294,689209,2023-12-30,partner,2917.48,5,Office Supplies,64,Marioville,West,Corporate
+6601,494438,2024-02-07,service,2475.02,5,Office Supplies,40,Perezhaven,West,Consumer
+3650,762129,2024-09-12,good,4586.83,10,Technology,28,Quinnchester,South,Consumer
+6050,790190,2025-02-28,rest,2458.86,9,Office Supplies,29,East Marvin,East,Home Office
+4027,606043,2025-02-04,foreign,3704.18,3,Furniture,18,Gordonborough,South,Corporate
+1448,605335,2024-07-04,strong,4263.19,6,Technology,31,Michaelhaven,South,Corporate
+6089,567641,2023-08-27,have,1351.48,4,Technology,58,North Scottview,West,Consumer
+8660,265178,2024-06-21,energy,1505.17,6,Office Supplies,51,South Jasonville,South,Corporate
+7917,852140,2023-08-05,talk,4780.06,6,Office Supplies,23,Blackburnshire,East,Home Office
+4447,574257,2023-04-26,think,4776.08,3,Furniture,52,Bakermouth,North,Corporate
+4301,942701,2023-10-09,plant,3570.61,10,Technology,47,Lisaland,East,Home Office
+9952,272126,2023-05-21,same,4595.27,10,Office Supplies,64,Evelynland,North,Consumer
+6754,796717,2023-04-26,many,501.66,4,Furniture,19,Kimhaven,North,Consumer
+1136,131082,2024-09-20,manager,3518.77,4,Office Supplies,36,Thomasbury,South,Consumer
+9647,974748,2024-06-12,fight,2659.19,8,Office Supplies,22,Millerside,South,Home Office
+9445,259850,2023-03-19,suddenly,4068.17,3,Furniture,58,Bushport,North,Corporate
+9726,618939,2024-02-29,hundred,1522.67,2,Technology,59,Brandyland,West,Consumer
+7430,697365,2024-11-28,will,3393.98,8,Office Supplies,59,New Scottmouth,North,Consumer
+3987,251570,2024-06-22,others,901.46,7,Office Supplies,32,Marialand,North,Consumer
+2732,637565,2024-06-06,line,2935.0,4,Office Supplies,50,Haynesmouth,East,Corporate
+8521,665196,2024-01-16,service,3748.31,5,Office Supplies,29,West Brittany,West,Home Office
+2714,725084,2023-12-24,into,552.75,1,Technology,60,North Jeffrey,East,Corporate
+3487,914825,2023-07-25,oil,1863.36,5,Technology,62,Garyfurt,South,Corporate
+2506,610884,2024-07-28,however,1583.35,3,Furniture,33,East Ronaldshire,West,Home Office
+2974,878820,2023-04-17,think,1124.31,9,Technology,48,New Brooke,South,Home Office
+3068,484496,2024-09-29,impact,4006.23,8,Office Supplies,43,Chavezview,South,Corporate
+2566,356196,2024-04-05,study,1274.64,4,Office Supplies,32,Jonesmouth,North,Consumer
+5900,118381,2023-11-20,join,2413.31,8,Office Supplies,45,East Donna,East,Corporate
+6538,436221,2023-09-17,kid,936.34,1,Technology,46,Manuelborough,East,Corporate
+7213,148176,2024-03-06,before,420.12,2,Office Supplies,47,Lynchmouth,West,Consumer
+5670,280585,2023-11-07,trade,1559.04,9,Furniture,34,Lake Karen,South,Corporate
+9038,126465,2025-02-10,shoulder,1600.23,2,Furniture,70,Steventon,West,Corporate
+8531,635031,2023-05-03,growth,2986.57,8,Office Supplies,26,Denisefurt,West,Home Office
+2147,211092,2024-02-16,since,930.28,9,Technology,49,Davisbury,North,Corporate
+8479,910354,2023-12-22,inside,304.27,9,Office Supplies,68,East Brandifurt,South,Corporate
+8754,915208,2024-09-29,by,3344.04,3,Furniture,45,Lake Christopherton,East,Consumer
+1016,841711,2024-04-12,capital,4071.54,3,Furniture,56,Conniechester,South,Consumer
+4786,414672,2024-06-19,into,3035.4,2,Office Supplies,61,Janebury,South,Consumer
+4045,218087,2024-03-04,long,415.28,1,Office Supplies,29,Joyfurt,South,Home Office
+3283,981812,2023-11-07,happy,4941.22,9,Technology,55,Lake Phillipstad,West,Corporate
+4872,348456,2024-10-23,baby,903.3,7,Furniture,18,East Timothy,South,Home Office
+8858,256000,2023-06-26,mention,2807.89,1,Office Supplies,28,New Thomasview,East,Corporate
+5765,474527,2024-04-22,son,4298.14,2,Furniture,21,New Margaret,North,Consumer
+7789,924912,2023-10-04,exactly,4132.74,3,Furniture,46,North Jamesburgh,West,Corporate
+5347,363302,2023-11-02,rich,1831.25,9,Technology,60,Loribury,East,Home Office
+1789,376330,2023-12-27,girl,1234.77,4,Technology,31,Morenoland,East,Corporate
+1448,681863,2024-05-06,follow,3398.29,7,Office Supplies,34,South Sarahmouth,North,Corporate
+2500,744310,2024-10-16,plant,2065.42,6,Technology,26,Mcclureshire,East,Corporate
+3436,488121,2025-01-17,effort,2155.32,1,Furniture,53,Thomasbury,North,Consumer
+2183,406035,2025-01-03,around,2339.82,4,Office Supplies,52,Kimberlyberg,West,Consumer
+1252,511243,2024-07-24,town,2184.01,5,Furniture,41,East Jeffreyburgh,West,Home Office
+2949,407298,2023-10-28,ball,2121.71,1,Furniture,48,Michaelberg,South,Corporate
+3586,663551,2025-03-07,key,3027.03,3,Technology,62,East Drewberg,East,Corporate
+1319,469381,2024-08-06,read,3541.77,9,Office Supplies,38,Dianeside,East,Home Office
+8617,884690,2024-06-27,anyone,4847.11,2,Furniture,60,North David,West,Home Office
+8553,173191,2023-09-12,campaign,2344.52,1,Office Supplies,66,Jenniferbury,East,Corporate
+3639,724320,2024-10-09,gas,1568.4,9,Office Supplies,36,Georgebury,South,Corporate
+6756,289178,2023-06-26,system,3426.32,4,Furniture,33,North Taylorview,North,Home Office
+3227,909397,2025-02-23,different,4125.11,8,Technology,19,Port Craig,West,Home Office
+6807,641690,2024-03-19,although,4141.5,6,Furniture,46,Jenniferland,North,Home Office
+6972,222370,2024-08-13,home,1537.49,5,Office Supplies,63,Youngton,South,Home Office
+6975,757966,2023-09-16,child,2622.21,7,Office Supplies,49,West Emily,East,Consumer
+4698,770533,2024-12-10,receive,127.04,2,Technology,53,West Kendra,North,Corporate
+4929,851834,2023-06-16,team,1786.17,9,Office Supplies,19,North Ronniebury,North,Consumer
+2810,571973,2024-01-05,decade,4642.15,5,Technology,37,Garciaside,South,Consumer
+4454,691393,2024-01-19,these,4859.53,10,Furniture,51,Marymouth,South,Home Office
+6316,467933,2024-11-18,reflect,107.05,4,Furniture,20,West Linda,North,Home Office
+1633,464365,2023-07-04,kitchen,2896.31,6,Office Supplies,62,South Jason,North,Corporate
+4165,397796,2024-07-29,perhaps,4856.18,2,Office Supplies,63,East Mark,South,Consumer
+4934,331638,2023-04-29,certainly,1320.33,9,Technology,32,Deborahstad,South,Corporate
+5178,299183,2023-09-29,evening,4332.11,6,Technology,39,Lake Amyfort,North,Corporate
+6858,194441,2024-06-18,push,1561.8,5,Furniture,59,Kariview,South,Consumer
+5637,607437,2025-01-27,conference,2663.87,8,Office Supplies,56,Joneshaven,North,Consumer
+8100,141781,2024-09-06,approach,4492.24,3,Technology,28,Christinachester,South,Consumer
+8321,389700,2024-12-13,either,403.77,7,Furniture,27,Boyermouth,West,Corporate
+4538,919576,2024-04-11,prepare,1141.43,2,Furniture,35,South Garyfurt,West,Home Office
+9475,314399,2024-11-13,as,214.57,9,Technology,57,Murphyland,North,Home Office
+8447,701052,2024-10-30,while,1787.82,1,Office Supplies,24,Port Patty,North,Consumer
+7423,523204,2025-02-04,ok,593.21,7,Office Supplies,49,Wrightmouth,South,Corporate
+7939,658665,2024-02-16,appear,1099.55,7,Office Supplies,54,Mortonbury,South,Home Office
+4637,446526,2024-06-27,time,4979.11,7,Furniture,52,North Stephen,North,Home Office
+6434,546729,2024-10-29,because,1168.28,6,Office Supplies,50,Jessicaborough,South,Home Office
+1170,784192,2023-10-07,around,1038.56,3,Technology,49,East James,East,Corporate
+2258,878306,2023-06-10,chair,350.09,2,Furniture,33,Adambury,West,Corporate
+6273,383629,2024-07-12,half,2273.73,10,Office Supplies,62,North Courtneytown,North,Consumer
+5193,682807,2023-10-17,although,297.64,1,Furniture,29,Michaelstad,North,Corporate
+9927,890221,2025-02-20,high,3826.45,1,Technology,60,Brownville,South,Corporate
+8523,350791,2024-12-22,responsibility,4371.44,8,Office Supplies,44,Port Elizabethchester,North,Home Office
+9956,383903,2023-04-06,when,1187.59,3,Office Supplies,47,Crosstown,North,Consumer
+9222,364973,2023-04-11,must,2687.41,6,Furniture,59,North Davidberg,South,Home Office
+2633,801396,2023-11-20,seem,779.62,8,Furniture,70,East John,East,Corporate
+3450,302935,2023-12-21,house,4796.25,7,Office Supplies,55,Kylefort,East,Consumer
+1944,543041,2024-09-04,miss,1389.76,4,Technology,26,Lovebury,South,Home Office
+6498,478324,2025-02-19,whom,1069.98,2,Furniture,53,New Toddborough,West,Home Office
+4130,410380,2023-09-09,agreement,1692.14,10,Furniture,36,Emilytown,South,Consumer
+2457,661461,2023-10-26,hear,2080.92,2,Office Supplies,37,North Thomas,North,Corporate
+4552,411800,2024-04-19,guess,2539.78,4,Furniture,29,Davidchester,South,Consumer
+7920,118209,2023-08-20,foot,2816.47,8,Office Supplies,55,Deanfort,South,Consumer
+2590,262628,2024-09-21,kitchen,2039.01,7,Technology,27,Johnsonbury,West,Consumer
+3156,373600,2024-02-17,local,2812.78,10,Furniture,19,North Kenneth,West,Home Office
+6998,366119,2025-03-05,practice,2288.52,2,Furniture,65,Barrmouth,West,Corporate
+1752,906833,2024-04-11,of,626.23,4,Furniture,64,Danielmouth,East,Home Office
+3476,400139,2023-04-06,left,3369.86,2,Technology,59,Whiteborough,North,Corporate
+5533,666672,2023-11-01,for,2992.99,1,Office Supplies,50,Kimberlyland,East,Corporate
+1773,376610,2024-06-22,key,4910.89,3,Technology,69,Sandovalhaven,West,Home Office
+4364,559547,2023-12-31,send,564.61,10,Office Supplies,62,Osbornebury,West,Home Office
+8665,135665,2025-03-06,recognize,2010.28,6,Furniture,22,Christineland,North,Home Office
+2818,608850,2023-04-06,store,1550.75,7,Office Supplies,19,North Tim,North,Home Office
+7678,115095,2023-11-13,police,2242.45,6,Office Supplies,56,Wallacechester,North,Corporate
+4860,775295,2023-08-25,available,4144.68,5,Technology,33,North Joseph,West,Corporate
+1172,357685,2024-02-27,she,706.68,5,Technology,18,Kellerview,North,Home Office
+2736,674734,2024-07-06,sound,4430.95,3,Furniture,19,Turnerton,East,Corporate
+9222,575030,2023-06-24,your,853.74,1,Office Supplies,65,Veronicastad,North,Home Office
+3611,104301,2023-04-30,third,4847.97,1,Technology,61,Adamsshire,East,Consumer
+5637,197535,2025-01-27,organization,2493.18,10,Furniture,27,New Kevin,South,Home Office
+2063,573408,2024-06-14,social,3678.86,10,Office Supplies,20,Port Reginaldmouth,East,Home Office
+6779,541680,2024-06-24,parent,2013.72,6,Furniture,39,South Kevin,East,Home Office
+9838,461998,2024-12-09,our,3812.33,1,Technology,27,North Brenda,West,Corporate
+7207,215422,2023-11-29,rest,2146.13,8,Office Supplies,54,Brianburgh,West,Corporate
+1450,537564,2025-02-03,must,3545.18,3,Office Supplies,48,Lopezmouth,West,Corporate
+5685,593498,2024-10-24,address,3958.74,2,Furniture,27,South Dianabury,West,Corporate
+1697,117501,2023-10-28,appear,1347.84,1,Furniture,27,Port Abigailshire,North,Home Office
+6263,794464,2023-11-28,one,4662.48,4,Furniture,65,Stevenfort,West,Consumer
+2378,806519,2023-06-08,daughter,2462.97,8,Furniture,40,West Michaeltown,West,Home Office
+4991,997968,2024-01-28,computer,3120.31,5,Furniture,22,West Gregory,North,Consumer
+2286,339824,2024-10-01,brother,3021.9,1,Furniture,18,Sheenaton,East,Corporate
+7257,145285,2023-03-25,direction,1787.5,8,Office Supplies,29,Weaverberg,East,Consumer
+2726,706622,2024-01-18,nation,3120.48,3,Office Supplies,39,East Kellyport,West,Home Office
+7214,132987,2024-11-10,build,4257.39,4,Furniture,49,Anthonymouth,South,Home Office
+8203,624538,2023-05-12,less,2960.44,10,Technology,31,New James,West,Home Office
+4809,624424,2023-04-25,say,4245.73,3,Office Supplies,25,New Michelleborough,South,Corporate
+2301,431402,2023-03-31,across,4075.55,1,Furniture,49,Katieberg,West,Corporate
+5137,614355,2023-11-15,believe,690.2,6,Office Supplies,22,Kimberlyland,West,Consumer
+2619,829211,2023-05-18,series,3851.4,5,Office Supplies,64,East Robertmouth,North,Home Office
+5266,185721,2023-08-04,almost,577.58,7,Technology,46,Amandaport,East,Corporate
+2305,954845,2024-05-05,manage,4635.84,5,Furniture,67,East Jasmine,South,Home Office
+1531,721654,2023-05-03,cell,3610.16,6,Furniture,23,Port Rodneyborough,West,Corporate
+9815,455340,2024-05-11,off,2979.62,6,Technology,38,West Katrinamouth,West,Home Office
+5946,968408,2024-11-26,use,2058.56,2,Furniture,55,Manuelfort,North,Home Office
+6678,917435,2024-09-06,inside,194.52,2,Office Supplies,21,Lake Christopherburgh,North,Consumer
+5765,227447,2023-11-04,nice,2203.05,1,Technology,63,Waltonview,North,Corporate
+1641,851645,2024-10-06,office,4029.29,1,Technology,66,Kevinstad,East,Home Office
+1905,134244,2024-04-07,spring,3101.54,10,Office Supplies,44,Ashleyberg,East,Home Office
+1734,249846,2024-04-15,candidate,3676.47,8,Technology,38,East Patriciabury,North,Consumer
+3878,392485,2023-11-29,sort,3457.98,9,Technology,58,East Michellebury,East,Corporate
+4321,821350,2025-03-07,argue,1656.03,8,Furniture,50,Lake Beth,South,Home Office
+9297,790131,2023-12-05,attention,4214.41,8,Furniture,42,Garciaport,East,Corporate
+2109,867700,2025-03-10,area,1593.49,8,Office Supplies,49,East Isaiah,North,Corporate
+2368,356251,2024-05-28,important,4304.52,9,Office Supplies,32,Fitzgeraldfort,West,Corporate
+3593,593334,2024-09-30,own,4319.8,6,Furniture,26,Susanhaven,East,Home Office
+3695,674138,2023-10-16,month,1470.64,9,Furniture,70,North Dustin,South,Consumer
+4706,964257,2024-07-14,buy,4999.19,2,Office Supplies,39,Isaiahville,North,Corporate
+5282,645353,2024-04-16,camera,3271.41,8,Office Supplies,60,North Jennifertown,North,Consumer
+5790,254081,2024-12-12,region,108.54,2,Office Supplies,44,Sawyerton,East,Corporate
+9495,333191,2023-08-16,detail,1675.74,6,Technology,18,Crosbychester,North,Home Office
+6312,461299,2025-03-05,decade,4017.5,10,Office Supplies,58,East Margaretborough,South,Corporate
+1703,258410,2023-09-22,check,728.35,10,Office Supplies,64,East Tiffanyshire,South,Corporate
+2446,730716,2023-04-27,computer,350.32,5,Furniture,37,Anneburgh,East,Corporate
+9771,856241,2024-04-19,cold,1359.66,8,Technology,40,Lake Davidberg,East,Home Office
+6781,430404,2023-08-30,always,2375.97,7,Office Supplies,59,Monicaview,North,Home Office
+8599,723103,2024-06-03,too,3551.28,2,Office Supplies,37,West John,East,Corporate
+7613,521082,2023-10-19,production,470.34,4,Furniture,64,North Robertmouth,South,Corporate
+3704,545571,2024-06-27,vote,1209.75,7,Technology,33,Port Courtney,East,Consumer
+3320,110396,2023-06-26,ok,4568.79,6,Technology,45,Taylortown,North,Home Office
+5648,384454,2025-01-05,and,641.69,10,Technology,51,West Karenhaven,South,Consumer
+9754,470451,2024-01-09,eat,3374.2,4,Furniture,36,East Carol,North,Home Office
+6420,980760,2023-12-19,perform,1364.18,5,Office Supplies,63,Lake Andrew,East,Consumer
+7606,284942,2024-01-17,great,4708.81,1,Office Supplies,55,South Tammy,South,Home Office
+4685,438092,2024-01-24,stop,4392.82,7,Furniture,52,Lake Donald,South,Corporate
+8820,581260,2024-12-29,join,2260.76,5,Office Supplies,53,Port Patrickberg,South,Home Office
+9490,971357,2023-09-10,produce,4626.64,10,Furniture,47,Jacquelinehaven,North,Home Office
+5966,266381,2025-02-12,tonight,2991.69,2,Office Supplies,38,West Amytown,East,Corporate
+6309,971331,2023-08-15,fly,2817.11,4,Technology,36,Farrellbury,West,Home Office
+8026,137582,2024-02-05,capital,3757.02,3,Furniture,67,West Ryanbury,North,Corporate
+1614,184513,2024-03-24,add,2605.47,7,Office Supplies,25,Lake Joseph,West,Consumer
+4614,403839,2023-10-24,long,1093.81,10,Office Supplies,49,Levimouth,North,Home Office
+6075,912497,2023-12-08,a,2267.1,3,Office Supplies,49,Stevensland,North,Home Office
+5665,809586,2023-08-06,add,1226.21,9,Furniture,50,South Michellehaven,West,Home Office
+7130,801691,2024-06-22,though,3722.38,9,Office Supplies,51,North Jasonchester,East,Consumer
+3888,805900,2024-07-04,herself,2800.68,1,Furniture,66,East Susanmouth,West,Corporate
+4694,520100,2024-09-25,join,3897.08,6,Technology,24,South Dawnchester,North,Home Office
+1828,377446,2023-10-12,effect,3278.77,8,Furniture,39,South Samanthaton,North,Consumer
+3714,451043,2023-07-27,floor,2783.94,2,Furniture,56,Christinemouth,West,Home Office
+3015,818607,2023-07-25,cold,3208.05,3,Furniture,18,South Annamouth,North,Consumer
+3353,838899,2025-01-14,course,428.88,3,Office Supplies,46,New Baileyside,East,Consumer
+2801,363172,2025-01-03,billion,207.34,4,Technology,45,South Brendafurt,East,Consumer
+6879,878607,2024-07-10,rest,598.12,5,Office Supplies,66,Michaelville,South,Consumer
+3709,491939,2023-11-03,strategy,2475.68,5,Technology,36,South Gabriel,South,Corporate
+7453,870873,2024-12-03,family,4981.75,7,Technology,40,Tanyaberg,West,Home Office
+9707,864636,2024-07-05,what,566.73,6,Furniture,19,Port Robertshire,North,Corporate
+1239,569000,2024-04-22,law,3193.83,7,Technology,21,West Christopher,West,Consumer
+7375,802030,2023-08-14,ten,4526.87,7,Office Supplies,57,Christopherbury,West,Corporate
+1359,745207,2024-05-04,ask,789.31,4,Furniture,61,West Justin,North,Consumer
+4870,182183,2024-06-26,whose,3696.0,9,Technology,33,East Michael,South,Home Office
+9867,744056,2024-09-09,again,3506.66,5,Technology,33,Jessicaland,South,Home Office
+3858,814718,2024-04-25,operation,1268.93,2,Technology,45,Joelmouth,South,Home Office
+6365,843846,2023-06-09,stand,4996.95,8,Furniture,68,North Nicholasville,North,Corporate
+5902,600301,2023-06-17,determine,3295.93,2,Office Supplies,49,West Davidville,North,Corporate
+9289,789983,2025-03-08,report,2235.54,10,Office Supplies,68,West Debbiemouth,West,Corporate
+3878,780749,2024-01-19,surface,4330.94,7,Office Supplies,28,Port Michaelville,South,Corporate
+4407,994264,2025-02-09,out,3551.96,8,Office Supplies,32,South Cole,West,Corporate
+6823,857515,2023-05-26,close,2513.99,5,Office Supplies,39,North Davidchester,West,Home Office
+9047,508709,2025-03-05,ground,4904.54,8,Furniture,19,Smithtown,East,Corporate
+6733,321199,2025-01-19,take,4058.27,9,Office Supplies,64,Stantonchester,East,Corporate
+7546,888591,2023-12-23,eight,4512.2,5,Technology,65,Port Brandi,West,Home Office
+1226,286018,2024-02-11,wall,1074.9,9,Office Supplies,67,Adamsborough,North,Corporate
+9171,396925,2024-01-22,government,2012.26,8,Technology,57,Taylorshire,West,Home Office
+1244,754279,2024-01-30,morning,3199.37,8,Technology,22,West Coreyfort,West,Consumer
+8519,581459,2024-12-11,fly,1769.81,6,Furniture,50,Wilsonport,East,Home Office
+6934,310061,2024-12-23,decade,530.94,7,Furniture,33,Hannahtown,North,Corporate
+4422,534757,2024-03-08,hundred,1395.38,7,Furniture,70,Johnburgh,East,Corporate
+8681,934574,2024-04-02,edge,791.78,5,Office Supplies,61,East Lucashaven,North,Consumer
+4242,195558,2024-05-22,central,4471.11,5,Furniture,50,Port Sandramouth,South,Corporate
+5646,297560,2024-02-27,instead,3252.85,10,Furniture,52,East Amandahaven,East,Corporate
+1001,221104,2023-11-29,language,4648.45,9,Office Supplies,49,Port Kevin,South,Home Office
+1310,355836,2023-03-28,entire,860.63,8,Office Supplies,42,Troyview,East,Corporate
+4919,170510,2024-10-12,direction,1406.92,2,Technology,53,Lake Saramouth,North,Home Office
+4089,935708,2024-06-21,easy,3328.78,9,Technology,55,Lake Victoria,South,Consumer
+1612,125113,2023-11-11,run,2552.17,1,Furniture,20,Gabrielfurt,West,Corporate
+5449,895114,2023-08-07,throw,2800.47,3,Office Supplies,43,South Robinborough,East,Home Office
+6485,741873,2024-06-21,natural,2882.17,9,Technology,66,Hammondfort,South,Home Office
+6918,725712,2024-04-11,standard,3411.69,7,Office Supplies,57,North Carriestad,East,Home Office
+9923,281109,2023-04-06,late,586.03,10,Furniture,23,Coxmouth,West,Consumer
+8808,458026,2024-10-18,similar,3882.99,7,Office Supplies,21,New Taraberg,North,Home Office
+5639,599302,2024-06-27,drive,397.27,6,Technology,19,Lake Jessetown,South,Consumer
+5816,897023,2023-11-03,base,4791.6,2,Furniture,59,Christopherfort,East,Corporate
+7908,735745,2024-12-16,official,593.94,5,Technology,19,North Lauren,West,Corporate
+3220,841598,2024-02-12,sound,433.79,1,Technology,45,Jamesside,West,Consumer
+9665,150487,2024-09-16,near,206.27,1,Furniture,70,Lake Rebeccaville,South,Home Office
+3442,602233,2024-07-14,exist,4710.35,4,Office Supplies,43,Kruegermouth,West,Corporate
+2508,172602,2025-01-16,main,3022.01,1,Technology,50,Morganstad,East,Home Office
+3513,574493,2024-06-05,parent,4333.58,6,Furniture,42,Haynesmouth,North,Consumer
+5587,707158,2024-05-30,agree,1217.65,3,Technology,47,Pattersonview,West,Corporate
+8344,361096,2024-06-07,citizen,1813.44,10,Furniture,34,Dawsonberg,East,Consumer
+3993,797694,2024-03-08,feel,4443.94,4,Furniture,18,North Brandon,East,Corporate
+7202,114518,2024-07-07,very,552.19,9,Technology,62,Carterport,North,Home Office
+4415,251433,2023-12-07,require,1474.71,10,Furniture,49,Teresaborough,West,Consumer
+4599,558818,2023-12-30,seem,3974.96,3,Furniture,31,Lake Rachel,South,Consumer
+8130,109928,2023-12-08,always,4873.85,3,Furniture,53,North Davidport,West,Consumer
+3689,719385,2025-02-15,research,430.13,5,Technology,59,East Brianside,South,Corporate
+3727,110237,2023-07-22,spring,2841.58,2,Office Supplies,21,West Alexandra,East,Consumer
+5227,959860,2024-02-10,hospital,697.49,9,Furniture,50,Savannahland,South,Home Office
+4658,923094,2024-07-29,feeling,2437.96,1,Furniture,42,Guzmanshire,North,Corporate
+3912,377444,2024-02-25,need,498.6,7,Technology,63,Katelynport,West,Consumer
+4180,628700,2023-07-18,ever,632.36,4,Technology,53,Lake Joannatown,North,Consumer
+1888,291103,2023-12-27,become,407.95,8,Technology,63,Anthonytown,North,Consumer
+2556,377144,2023-08-19,college,2842.87,4,Technology,53,Dillonmouth,East,Consumer
+7748,636616,2024-07-23,often,4377.91,3,Furniture,52,Leeshire,North,Consumer
+3881,341498,2023-10-19,miss,706.83,4,Furniture,18,Lake Susanfurt,South,Corporate
+8933,350308,2025-03-06,include,2201.94,1,Office Supplies,35,Valdezmouth,West,Consumer
+7339,362456,2025-03-01,nature,2497.0,4,Technology,54,Melissafurt,West,Corporate
+1432,286509,2024-10-21,evening,1420.98,5,Technology,34,Port Dawn,South,Home Office
+6656,666767,2024-11-03,model,3321.63,6,Technology,27,Wrighttown,East,Corporate
